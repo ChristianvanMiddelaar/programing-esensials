@@ -1,11 +1,6 @@
-size(600, 600);
+size(750,500);
 
-float dikte = 110;
-float lenkte = 1.80;
-float BMI = dikte / (lenkte * lenkte);
-fill(255,0,0);
-text (BMI, 50, 100);
-
+//3,5
 fill(255,255,255);
 arc(400,100,150,150,1*PI,4*PI);
 arc(400,130,50,50,0*PI,1*PI);
